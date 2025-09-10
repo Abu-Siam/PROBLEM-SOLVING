@@ -71,4 +71,14 @@ def check_permutation2(s1, s2):
 print(check_permutation2('abc', 'acb')) 
 print(check_permutation2('abc', 'xab'))
     
-    
+'''
+🔁 Variations / Follow-ups
+
+Ignore spaces or punctuation (pre-process strings)
+
+Case-insensitive check (s.lower())
+
+What if strings come from large files or streams?
+
+Can you check permutation of Unicode strings?
+'''

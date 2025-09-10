@@ -85,3 +85,18 @@ def is_unique4(s):
     return True
 
 print(is_unique4('abca'))
+
+
+'''
+🔁 Variations / Follow-ups
+
+Modify to ignore case sensitivity
+
+Unicode handling (use len(set(s)))
+
+Stream-based input (can’t store all at once)
+
+Return the first duplicate character
+
+What if memory is extremely limited?
+'''
