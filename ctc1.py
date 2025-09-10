@@ -1,9 +1,23 @@
-# cracking the coding #1 problem
+# cracking the coding #1.1  problem: check unique
 
 '''
 Implement an algorithm to determine if a string has all unique characters.
 
 ❗ What if you cannot use additional data structures?
+'''
+
+'''
+This problem is common in early interviews and tests:
+
+Basic understanding of string traversal
+
+Space-time tradeoffs (memory vs. speed)
+
+Character encoding (ASCII/Unicode)
+
+How you adapt to constraints
+
+Clean, structured thinking under pressure
 '''
 
 
